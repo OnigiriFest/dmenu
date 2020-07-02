@@ -41,3 +41,6 @@ Launch Options
 This launch options use the dracula theme.
 
 dmenu_run -c -h 24 -fn "Fira Code" -l 10 -nb "#44475a" -nf "#f8f8f2" -sb "#bd93f9" -sf "#282a36" -shb "#bd93f9" -shf "#8be9fd" -nhb "#44475a" -nhf "#8be9fd"
+
+This laucnh with gruvbox theme like.
+dmenu_run -c -h 24 -fn "Fira Code" -l 10 -nb "#1d2021" -nf "#8e9090" -sb "#928374" -sf "#49413a" -shb "#928374" -shf "#ffffff" -nhb "#1d2021" -nhf "#ffffff"
